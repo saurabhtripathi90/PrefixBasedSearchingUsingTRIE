@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-core-2.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-core-2.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-core-2.2.1-tests.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-core-2.2.1-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-2.2.1-cdi.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-2.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-2.2.1-nocdi.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-2.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-2.2.1-tests.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-2.2.1-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-extras-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-extras-2.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-extras-2.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-extras-2.2.1-tests.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-extras-2.2.1-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-openjpa-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-openjpa-2.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-openjpa-2.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-openjpa-2.2.1-tests.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-openjpa-2.2.1-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-jcs-jcache-tck-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/JCS/all jars/concurrent.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sasatrip.ORADEV/Downloads/ojdbc6.jar/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
